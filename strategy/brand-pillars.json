@@ -1,0 +1,47 @@
+{
+  "brand_name": "REVREBEL",
+  "dna": {
+    "archetype": "The Rebel / Maverick",
+    "origin_story": "The lovechild of a Star Wars production designer, a Linux developer, and a rebellious revenue strategist.",
+    "mission": "Dismantling boring, safe corporate identities to build high-impact, strategically sound hotel brands."
+  },
+  "service_pillars": [
+    {
+      "id": "revenue_strategy",
+      "title": "Revenue Strategy",
+      "focus": "Deep-dive analysis and unique pricing strategies.",
+      "rebel_edge": "Uncovering untapped revenue by ignoring industry 'best practices' that don't scale.",
+      "keywords": ["Bottom-line impact", "Personalized solutions", "Market share dominance"]
+    },
+    {
+      "id": "optimized_distribution",
+      "title": "Optimized Distribution",
+      "focus": "Partner lists and back-end connectivity.",
+      "rebel_edge": "Building distribution ecosystems that work for the hotel, not the OTA.",
+      "keywords": ["Connectivity", "Channel mix", "Direct-booking focus"]
+    },
+    {
+      "id": "curated_tech",
+      "title": "Curated Tech",
+      "focus": "Auditing and overhauling hotel tech stacks.",
+      "rebel_edge": "Eliminating 'bloatware' and integrating only what drives performance.",
+      "keywords": ["System audits", "Innovative strategy", "Tech-enabled"]
+    },
+    {
+      "id": "brand_activation",
+      "title": "Brand Activation",
+      "focus": "Storytelling and strategic positioning.",
+      "rebel_edge": "Fusing cultural insights with captivating storytelling to cut through noise.",
+      "keywords": ["Cultural fandom", "Positioning", "Maverick aesthetic"]
+    }
+  ],
+  "voice_constraints": {
+    "forbidden_words": ["synergy", "disruption", "thought leader", "table stakes", "value-add"],
+    "preferred_words": ["Shift", "Level up", "Maverick", "Unconventional", "Results"],
+    "tone_balance": {
+      "professionalism": 0.5,
+      "irreverence": 0.5,
+      "clarity": 1.0
+    }
+  }
+}
