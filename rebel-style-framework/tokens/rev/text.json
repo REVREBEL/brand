@@ -1,0 +1,58 @@
+{
+  "text": {
+    "$type": "dimension",
+    "fonts": {
+      "body": {
+        "value": "'General Sans', 'Noto Emoji', 'Public Sans', 'Andale Mono', tahoma, sans-serif"
+      },
+      "code": {
+        "value": "'Fira Code', courier, monospace"
+      },
+      "headline": {
+        "value": "'Khand', 'Noto Emoji', 'Oswald', 'Impact', sans-serif"
+      },
+      "special": {
+        "value": "'Supreme', 'General Sans', 'Noto Emoji', 'Public Sans', 'Andale Mono', tahoma, sans-serif"
+      },
+      "emjoi": {
+        "value": "'Noto Emoji', sans-serif"
+      },
+      "blockquote": {
+        "value": "'Logic Monoscript', mono;"
+      }
+    },
+    "sizes": {
+      "heading": {
+        "value": "{dimensions.size.font.s0-xl}"
+      },
+      "body": {
+        "value": "{dimensions.size.font.s3-base}"
+      }
+    },
+    "weights": {
+      "body": {
+        "value": "300"
+      },
+      "regular": {
+        "value": "400"
+      },
+      "medium": {
+        "value": "600"
+      },
+      "bold": {
+        "value": "700"
+      }
+    },
+    "typography": {
+      "body": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{text.fonts.body}",
+          "fontWeight": "{text.weights.regular}",
+          "fontSize": "{text.sizes.body}",
+          "lineHeight": "{dimensions.line-height.1-5}"
+        }
+      }
+    }
+  }
+}

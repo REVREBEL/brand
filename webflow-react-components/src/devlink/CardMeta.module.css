@@ -1,0 +1,15 @@
+.rebel-style--component_card-meta {
+  display: block;
+  width: 100%;
+}
+
+@media screen and (max-width: 479px) {
+  .rebel-style--component_card-meta {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+}
+
+#w-node-_20db69ff-e980-6b9f-d7c3-3858c94bb9cc-c94bb9cc {
+}

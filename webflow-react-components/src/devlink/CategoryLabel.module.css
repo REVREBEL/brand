@@ -1,0 +1,10 @@
+.rebel-style--component_category-label {
+  display: inline-block;
+  align-self: center;
+}
+
+@media screen and (max-width: 479px) {
+  .rebel-style--component_category-label:where(.w-variant-b1d43679-a20e-3d90-5812-e310762336f5) {
+    order: -9999;
+  }
+}

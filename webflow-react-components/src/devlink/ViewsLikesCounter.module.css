@@ -1,0 +1,86 @@
+.rebel-style--global-component_base {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  min-width: 0px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+@media screen and (max-width: 479px) {
+  .rebel-style--global-component_base {
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap-reverse;
+    align-items: flex-start;
+  }
+}
+
+.rebel-style--component_views-likes-counter {
+  overflow: clip;
+}
+
+.rebel-style--component_views-likes-counter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+  grid-auto-columns: auto;
+  grid-template-columns: minmax(auto, 30%) auto minmax(auto, 30%);
+  grid-template-rows: auto;
+}
+
+.rebel-style--global-component_wrapper {
+  position: relative;
+
+  display: flex;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  align-self: stretch;
+}
+
+.rebel-style--global-component_container {
+  display: inline-flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: stretch;
+  align-self: stretch;
+}
+
+.rebel-style--global-component_container:where(.w-variant-ad9852a4-63de-fa79-825f-5a1f588feeda) {
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.rebel-style--global-component_container:where(.w-variant-96659799-e9f7-7eca-d099-9d384fb8228e) {
+  display: block;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+
+.rebel-style--component_views-likes-counter-layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.rebel-style--component_views-likes-counter-layout:where(.w-variant-ad9852a4-63de-fa79-825f-5a1f588feeda) {
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.rebel-style--component_views-likes-counter-layout:where(.w-variant-96659799-e9f7-7eca-d099-9d384fb8228e) {
+  display: inline-flex;
+  overflow: visible;
+  width: 100%;
+  max-width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+}

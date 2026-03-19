@@ -1,0 +1,188 @@
+.rebel-style--variants_label-text-size {
+  align-self: center;
+  font-size: var(--rebel-style_type---responsive-label-text--label-font-size-base);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-aea304d4-45c4-c08b-f67e-90f5f57aa2a5) {
+  font-size: clamp(0.625rem, 1.1cqw, 0.75rem);
+  line-height: 1.3;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-bac7c444-90db-02dc-749e-55cf82dc3c29) {
+  font-size: clamp(0.75rem, 1.3cqw, 0.875rem);
+  line-height: 1.35;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-b55dd382-7c43-731e-55c1-46950476d930) {
+  cursor: row-resize;
+  font-size: clamp(0.875rem, 1.6cqw, 1.125rem);
+  line-height: 1.55;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-84f684f2-3e11-ec30-bb31-098b678dbb69) {
+  font-size: clamp(1rem, 1.8cqw, 1.25rem);
+  line-height: 1.6;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-ae4065f3-4e06-b2ff-927d-829f51394248) {
+  font-size: clamp(1.125rem, 2.1cqw, 1.5rem);
+  line-height: 1.65;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-af7d40f9-fb1a-8b54-9fac-057ed19c26a8) {
+  font-size: clamp(1rem, 1.75cqw, 1.25rem);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-e50e697e-5db2-5667-53c3-8701165f251e) {
+  font-size: clamp(0.875rem, 1.7cqw, 1.125rem);
+  line-height: 1.55;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-d998744b-3c2d-caa4-be54-91d64b8f41d9) {
+  font-size: clamp(0.75rem, 1.3cqw, 0.875rem);
+  line-height: 1.35;
+  opacity: 0.8;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-495c48eb-6815-632c-a964-8b003c66be61) {
+  font-size: clamp(1.145rem, 2.6cqw, 1.75rem);
+  line-height: 1.7;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-45e0c150-ea2b-2af4-2474-4676295f03bf) {
+  font-size: var(--rebel-style_type---responsive-label-text--label-font-size-xs);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-45e0c150-ea2b-2af4-2474-4676295f03c0) {
+  font-size: var(--rebel-style_type---responsive-label-text--label-font-size-sm);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-45e0c150-ea2b-2af4-2474-4676295f03c1) {
+  font-size: var(--rebel-style_type---responsive-label-text--label-font-size-md);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-0cdaae42-93c7-8071-7d9a-2c97b662e996) {
+  font-size: clamp(1.125rem, 2.1cqw, 1.5rem);
+  line-height: 1.65;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-0cdaae42-93c7-8071-7d9a-2c97b662e994) {
+  font-size: clamp(1rem, 1.75cqw, 1.25rem);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-0cdaae42-93c7-8071-7d9a-2c97b662e997) {
+  font-size: clamp(1.145rem, 2.6cqw, 1.75rem);
+  line-height: 1.7;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1cb) {
+  font-size: clamp(0.625rem, 1.1cqw, 0.75rem);
+  line-height: 1.3;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1cc) {
+  font-size: clamp(0.75rem, 1.3cqw, 0.875rem);
+  line-height: 1.35;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1cd) {
+  cursor: row-resize;
+  font-size: clamp(0.875rem, 1.6cqw, 1.125rem);
+  line-height: 1.55;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1cf) {
+  font-size: clamp(1rem, 1.8cqw, 1.25rem);
+  line-height: 1.6;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1d0) {
+  font-size: clamp(1.125rem, 2.1cqw, 1.5rem);
+  line-height: 1.65;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1ce) {
+  font-size: clamp(1rem, 1.75cqw, 1.25rem);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1d3) {
+  font-size: clamp(0.875rem, 1.7cqw, 1.125rem);
+  line-height: 1.55;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1d2) {
+  font-size: clamp(0.75rem, 1.3cqw, 0.875rem);
+  line-height: 1.35;
+  opacity: 0.8;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1d1) {
+  font-size: clamp(1.145rem, 2.6cqw, 1.75rem);
+  line-height: 1.7;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5173) {
+  font-size: clamp(0.625rem, 1.1cqw, 0.75rem);
+  line-height: 1.3;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5179) {
+  font-size: clamp(1.145rem, 2.6cqw, 1.75rem);
+  line-height: 1.7;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5174) {
+  font-size: clamp(0.75rem, 1.3cqw, 0.875rem);
+  line-height: 1.35;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5175) {
+  cursor: row-resize;
+  font-size: clamp(0.875rem, 1.6cqw, 1.125rem);
+  line-height: 1.55;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5176) {
+  font-size: clamp(1rem, 1.75cqw, 1.25rem);
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5177) {
+  font-size: clamp(1rem, 1.8cqw, 1.25rem);
+  line-height: 1.6;
+}
+
+.rebel-style--variants_label-text-size:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5178) {
+  font-size: clamp(1.125rem, 2.1cqw, 1.5rem);
+  line-height: 1.65;
+}
+
+.rebel-style--slot_responsive-text {
+  display: flex;
+  width: 100%;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-495c48eb-6815-632c-a964-8b003c66be61) {
+  font-size: inherit;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-0cdaae42-93c7-8071-7d9a-2c97b662e997) {
+  font-size: inherit;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-45e0c150-ea2b-2af4-2474-4676295f03c0) {
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-453c3795-d7de-cfa5-666b-76978465f1d1) {
+  font-size: inherit;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-45e0c150-ea2b-2af4-2474-4676295f03c1) {
+  background-color: inherit;
+}
+
+.rebel-style--slot_responsive-text:where(.w-variant-4da91c82-baf5-870f-689b-e7685f7c5179) {
+  font-size: inherit;
+}

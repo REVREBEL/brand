@@ -1,0 +1,560 @@
+.rebel-style--variants_bg-border-font-color {
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+
+  border-color: var(--rebel-style_colors---primary--primary);
+
+  background-color: var(--rebel-style_colors---primary--primary);
+
+  color: var(--rebel-style_colors---primary--primary-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb7) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb6) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb5) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb4) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb3) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+  background-color: var(--rebel-style_colors---color-6--color-6);
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb2) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb1) {
+  border: 4px solid var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfb0) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfaf) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a31a9b25-59ae-96ba-267f-a7f74079bfae) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-e75786f1-084b-20ce-f562-c0b5b3e388f9) {
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-aa6d03e1-01cf-88ca-5326-58f56f286bcb) {
+  border: 4px solid var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-14c50b7d-7eca-9be1-9a47-1316de48b013) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-e6073ed0-5a6d-7f5c-4b40-8a14cd01a6c3) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+
+  background-color: var(--rebel-style_colors---color-6--color-6);
+
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-9c19e8d4-100a-4b4a-8238-c409fae08dd1) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4da9bac6-3232-f98f-f11a-3b0c249e5920) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-9fa9229a-5c6f-5ee5-94fb-5016535988b6) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-8d783c96-6d77-fb99-3d36-839a4e0e4409) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-9fcdcaae-2a9f-9bc7-1747-0c8740817759) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-01005ac1-61f7-d609-73ae-5f4fccbc6d36) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-574a8bf0-ba0c-cf1c-ad3a-8aa7c14c34dd) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-273a90b9-d816-255e-0f12-3bd3d58f50dd) {
+  color: var(--rebel-style_colors---color-dark--dark-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-a17a95c5-33b2-c6a3-15b3-b38ff1864c3b) {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d50) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d4e) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d4c) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d4a) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d48) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+  background-color: var(--rebel-style_colors---color-6--color-6);
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d46) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d44) {
+  border: 4px solid var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d42) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d40) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d3e) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-f5ed6ecd-6291-3360-87ee-59d35e024d52) {
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-db1a48f5-746a-3230-0f60-ea7d14ee59b2) {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+
+  color: inherit;
+
+  background-color: color-mix(in srgb, currentColor 20%, transparent);
+
+  border-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d89) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d87) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d85) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d83) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d81) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+  background-color: var(--rebel-style_colors---color-6--color-6);
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7f) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7d) {
+  border: 4px solid var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7b) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d79) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d77) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d8b) {
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7e) {
+  border: 4px solid var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d80) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d82) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+
+  background-color: var(--rebel-style_colors---color-6--color-6);
+
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d86) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d84) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d88) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d78) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7a) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d7c) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d8a) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d8c) {
+  color: var(--rebel-style_colors---color-dark--dark-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-97f4c5cd-6e41-ab7c-0215-fc02e82c9d76) {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d8) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d6) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9);
+  color: var(--rebel-style_colors---color-9--color-9-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d4) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8);
+  color: var(--rebel-style_colors---color-8--color-8-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d2) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7);
+  color: var(--rebel-style_colors---color-7--color-7-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d0) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+  background-color: var(--rebel-style_colors---color-6--color-6);
+  color: var(--rebel-style_colors---color-6--color-6-inverse);
+  text-overflow: clip;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263ce) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5);
+  color: var(--rebel-style_colors---color-5--color-5-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263cc) {
+  border-color: var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4);
+  color: var(--rebel-style_colors---color-4--color-4-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263ca) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3);
+  color: var(--rebel-style_colors---color-3--color-3-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c8) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2);
+  color: var(--rebel-style_colors---color-2--color-2-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c6) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1);
+  color: var(--rebel-style_colors---color-1--color-1-inverse);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263da) {
+  color: var(--rebel-style_colors---color-light--light-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263cd) {
+  border-color: var(--rebel-style_colors---color-4--color-4);
+  background-color: var(--rebel-style_colors---color-4--color-4-inverse);
+  color: var(--rebel-style_colors---color-4--color-4);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263cf) {
+  border-color: var(--rebel-style_colors---color-5--color-5);
+  background-color: var(--rebel-style_colors---color-5--color-5-inverse);
+  color: var(--rebel-style_colors---color-5--color-5);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d1) {
+  border-color: var(--rebel-style_colors---color-6--color-6);
+  background-color: var(--rebel-style_colors---color-6--color-6-inverse);
+  color: var(--rebel-style_colors---color-6--color-6);
+  text-overflow: clip;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d5) {
+  border-color: var(--rebel-style_colors---color-8--color-8);
+  background-color: var(--rebel-style_colors---color-8--color-8-inverse);
+  color: var(--rebel-style_colors---color-8--color-8);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d3) {
+  border-color: var(--rebel-style_colors---color-7--color-7);
+  background-color: var(--rebel-style_colors---color-7--color-7-inverse);
+  color: var(--rebel-style_colors---color-7--color-7);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d7) {
+  border-color: var(--rebel-style_colors---color-9--color-9);
+  background-color: var(--rebel-style_colors---color-9--color-9-inverse);
+  color: var(--rebel-style_colors---color-9--color-9);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c7) {
+  border-color: var(--rebel-style_colors---color-1--color-1);
+  background-color: var(--rebel-style_colors---color-1--color-1-inverse);
+  color: var(--rebel-style_colors---color-1--color-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c9) {
+  border-color: var(--rebel-style_colors---color-2--color-2);
+  background-color: var(--rebel-style_colors---color-2--color-2-inverse);
+  color: var(--rebel-style_colors---color-2--color-2);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263cb) {
+  border-color: var(--rebel-style_colors---color-3--color-3);
+  background-color: var(--rebel-style_colors---color-3--color-3-inverse);
+  color: var(--rebel-style_colors---color-3--color-3);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263d9) {
+  border-color: var(--rebel-style_colors---colors--color-white);
+  background-color: var(--rebel-style_colors---color-dark--dark-1);
+  color: var(--rebel-style_colors---color-light--light-1);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263db) {
+  border-color: var(--rebel-style_colors---color-dark--dark-1);
+  background-color: var(--rebel-style_colors---color-light--light-1);
+  color: var(--rebel-style_colors---color-dark--dark-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c5) {
+  background-color: var(--rebel-style_colors---primary--primary-inverse);
+  color: var(--rebel-style_colors---primary--primary);
+}
+
+.rebel-style--variants_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263c4) {
+  color: inherit;
+  background-color: color-mix(in srgb, currentColor 20%, transparent);
+  border-color: transparent;
+}
+
+.rebel-style--slot_bg-border-font-color {
+  display: block;
+}
+
+.rebel-style--slot_bg-border-font-color:where(.w-variant-4e110404-552b-5b98-bc46-5f1c2aa263ca) {
+  background-color: inherit;
+}

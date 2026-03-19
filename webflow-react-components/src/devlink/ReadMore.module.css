@@ -1,0 +1,13 @@
+.rebel-style--component_read-more {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.rebel-style--component_link-block {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  font-family: var(--rebel-style_buttons---labels--label-font);
+  font-weight: var(--rebel-style_buttons---labels--label-font-weight);
+}

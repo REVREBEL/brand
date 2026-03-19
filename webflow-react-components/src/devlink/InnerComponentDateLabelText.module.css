@@ -1,0 +1,111 @@
+.rebel-style--component_base {
+  display: block;
+  justify-content: flex-start;
+  align-items: center;
+
+  border-radius: 20px;
+
+  background-color: transparent;
+
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 1280px) {
+  .rebel-style--component_base:where(.w-variant-42c9453f-a1c8-3496-f88c-b911c8e9dcd2) {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0px;
+  }
+}
+
+.rebel-style--component_base:where(.w-variant-2554d0a0-f51e-2823-4f2d-bb380217102c) {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.rebel-style--component_base:where(.w-variant-6c15eb89-9e7f-4f66-900f-742fa4135113) {
+  font-family: var(--rebel-style_buttons---all-buttons--btn-font);
+  font-variation-settings: "wght" 700;
+  font-weight: var(--rebel-style_buttons---base-buttons--btn-font-weight);
+  letter-spacing: var(--rebel-style_buttons---labels--letter-spacing);
+}
+
+.rebel-style--component_base:where(.w-variant-d5f360af-765f-9d7a-1d2f-c77a34f8eec7) {
+  align-self: stretch;
+}
+
+@media screen and (max-width: 991px) {
+  .rebel-style--component_base {
+    white-space: nowrap;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .rebel-style--component_base {
+    width: 100%;
+  }
+}
+
+.rebel-style--component_base.rebel-style--component_category-label {
+  display: flex;
+  padding: var(--rebel-style_buttons---labels--padding-top) var(--rebel-style_buttons---labels--padding-right) var(--rebel-style_buttons---labels--padding-bottom) var(--rebel-style_buttons---labels--padding-left);
+}
+
+.rebel-style--component_category-label {
+  display: inline-block;
+  align-self: center;
+}
+
+@media screen and (max-width: 479px) {
+  .rebel-style--component_category-label:where(.w-variant-b1d43679-a20e-3d90-5812-e310762336f5) {
+    order: -9999;
+  }
+}
+
+.rebel-style--component_date-wrapper {
+  display: block;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-self: center;
+}
+
+@media screen and (max-width: 767px) {
+  .rebel-style--component_date-wrapper {
+    align-self: flex-start;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .rebel-style--component_date-wrapper {
+    align-self: flex-start;
+  }
+}
+
+.rebel-style--component_date-label-text {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+  justify-content: center;
+  align-items: center;
+
+  font-family: var(--rebel-style_buttons---labels--label-font);
+  line-height: var(--rebel-style_buttons---labels--line-height);
+  font-weight: var(--rebel-style_buttons---labels--label-font-weight);
+  letter-spacing: var(--rebel-style_buttons---labels--letter-spacing);
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.rebel-style--component_date-label-text:where(.w-variant-511a967a-b411-f08a-9882-db680b1d54fe) {
+  font-size: var(--rebel-style_type---text-size--text-size-sm);
+}
+
+.rebel-style--component_date-label-text:where(.w-variant-b1d43679-a20e-3d90-5812-e310762336f5) {
+  font-size: var(--rebel-style_type---text-size--text-size-lg);
+}
+
+.rebel-style--component_date-label-text:where(.w-variant-eebdf314-bdfe-f1e4-a83c-9626bc352883) {
+  font-size: var(--rebel-style_type---text-size--text-size-md);
+  color: inherit;
+}
