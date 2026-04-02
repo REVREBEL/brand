@@ -4,9 +4,9 @@
 Do not use these under any circumstances. If they appear in input text, translate them.
 * **Marketing Fluff:** Funnel, Incentivize, Leverage, Disruption, Thought Leader, Learnings.
 * **Tech Cliches:** Ninja, Rockstar, Wizard, Unicorn, Internets/Interwebs.
-* **Aggressive Slang:** Crushing it, Killing it, Rise and Grind.
+* **Aggressive Slang:** Crushing it, Killing it, Rise, Grind, Weaponize.
 * **Outdated/Corporate:** Best-in-breed, Activation (for events), Blacklist/Whitelist, Slave/Master.
-* **Ableist/Ageist Terms:** Crazy, Insane, Young, Old, Elderly.
+* **Ableist/Ageist Terms:** Crazy, Insane, Young, Old, Elderly, Rot, Deserves to exist.
 
 ## ✅ The "Maverick" Vocabulary (Preferred)
 * **The Villain:** The "boring," "safe," or "bloated" status quo.
@@ -19,4 +19,6 @@ Do not use these under any circumstances. If they appear in input text, translat
 * **Emoji:** Use sparingly and with intention. Never "emoji-vomit."
 * **Grammar:** Use contractions for an informal, relatable tone.
 * **Tone Adjustment:** * *Feeling Accomplished?* Be witty and celebratory.
-    * *Feeling Confused?* Be clear, supportive, and jargon-free.
+
+* *Feeling Confused?* Be clear, supportive, and jargon-free.
+
